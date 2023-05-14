@@ -1,0 +1,478 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Denim Jacket",
+      "price": 79.99,
+      "category": {
+        "id": 1,
+        "name": "Mens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?denim+jacket",
+      "description": "The perfect addition to your wardrobe, this classic denim jacket features a timeless design that never goes out of style. Made with high-quality denim and finished with durable hardware, it's both stylish and practical. Available in various sizes."
+    },
+    {
+      "id": 2,
+      "name": "Flowy Maxi Dress",
+      "price": 49.99,
+      "category": {
+        "id": 2,
+        "name": "Womens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?maxi+dress",
+      "description": "This flowy maxi dress is the epitome of summer style. Made with lightweight fabric and featuring a flattering silhouette, it's perfect for a day out on the town or a romantic evening out. Available in various sizes and colors."
+    },
+    {
+      "id": 3,
+      "name": "Kids' Graphic T-Shirt",
+      "price": 14.99,
+      "category": {
+        "id": 3,
+        "name": "Kids"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?kids+t-shirt",
+      "description": "Let your little ones express their personalities with our collection of graphic T-shirts for kids. Made with soft, comfortable fabric and featuring a variety of fun designs, these shirts are perfect for everyday wear or special occasions. Available in various sizes and designs."
+    },
+    {
+      "id": 4,
+      "name": "Cropped Trench Coat",
+      "price": 119.99,
+      "category": {
+        "id": 1,
+        "name": "Mens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?men+trench+coat",
+      "description": "Stay on-trend with this cropped trench coat. Featuring a modern silhouette and high-quality construction, it's the perfect addition to any outfit. Available in various sizes and colors."
+    },
+    {
+      "id": 5,
+      "name": "Sleeveless A-Line Dress",
+      "price": 69.99,
+      "category": {
+        "id": 2,
+        "name": "Womens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?women+dress",
+      "description": "Add a touch of elegance to your wardrobe with this sleeveless A-line dress. Made with soft, high-quality fabric and featuring a flattering silhouette, it's perfect for a variety of occasions. Available in various sizes and colors."
+    },
+    {
+      "id": 6,
+      "name": "Kids' Hooded Sweatshirt",
+      "price": 24.99,
+      "category": {
+        "id": 3,
+        "name": "Kids"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?kids+sweatshirt",
+      "description": "Keep your little ones warm and stylish with this hooded sweatshirt. Made with soft, comfortable fabric and featuring a fun design, it's perfect for everyday wear. Available in various sizes and designs."
+    },
+    {
+      "id": 7,
+      "name": "Mens Slim Fit Chinos",
+      "price": 59.99,
+      "category": {
+        "id": 1,
+        "name": "Mens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?men+chinos",
+      "description": "Upgrade your wardrobe with these slim fit chinos. Made with high-quality cotton and featuring a modern fit, they're perfect for both casual and formal occasions. Available in various sizes and colors."
+    },
+    {
+      "id": 8,
+      "name": "Womens Button-Front Blouse",
+      "price": 34.99,
+      "category": {
+        "id": 2,
+        "name": "Womens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?women+blouse",
+      "description": "Elevate your look with this button-front blouse. Made with lightweight, breathable fabric and featuring a flattering fit, it's perfect for both work and play. Available in various sizes and colors."
+    },
+    {
+      "id": 9,
+      "name": "Kids' Denim Overalls",
+      "price": 29.99,
+      "category": {
+        "id": 3,
+        "name": "Kids"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?kids+overalls",
+      "description": "Get your little ones ready for any adventure with these denim overalls. Made with durable fabric and featuring a comfortable fit, they're perfect for playtime and beyond. Available in various sizes."
+    },
+    {
+      "id": 10,
+      "name": "Mens Leather Chelsea Boots",
+      "price": 149.99,
+      "category": {
+        "id": 1,
+        "name": "Mens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?men+boots",
+      "description": "Step up your shoe game with these leather Chelsea boots. Featuring a classic design and high-quality construction, they're the perfect addition to any outfit. Available in various sizes and colors."
+    },
+    {
+      "id": 11,
+      "name": "Womens Knit Sweater",
+      "price": 49.99,
+      "category": {
+        "id": 2,
+        "name": "Womens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?women+sweater",
+      "description": "Stay cozy and stylish with this knit sweater. Made with soft, high-quality yarn and featuring a classic design, it's perfect for cooler weather. Available in various sizes and colors."
+    },
+    {
+      "id": 12,
+      "name": "Mens Bomber Jacket",
+      "price": 99.99,
+      "category": {
+        "id": 1,
+        "name": "Mens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?men+jacket",
+      "description": "Make a statement with this stylish bomber jacket. Made with durable materials and featuring a modern design, it's perfect for adding an edge to any outfit. Available in various sizes and colors."
+    },
+    {
+      "id": 13,
+      "name": "Kids' Printed Leggings",
+      "price": 19.99,
+      "category": {
+        "id": 3,
+        "name": "Kids"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?kids+leggings",
+      "description": "Let your little ones show off their personality with these printed leggings. Made with soft, stretchy fabric and featuring a variety of fun designs, they're perfect for everyday wear or special occasions. Available in various sizes and designs."
+    },
+    {
+      "id": 14,
+      "name": "Womens Wide-Leg Pants",
+      "price": 59.99,
+      "category": {
+        "id": 2,
+        "name": "Womens"
+      },
+      "image_url": "https://source.unsplash.com/600x500/?women+pants",
+      "description": "Make a fashion statement with these wide-leg pants. Made with high-quality fabric and featuring a flattering fit, they're perfect for both work and play. Available in various sizes and colors."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mens"
+    },
+    {
+      "id": 2,
+      "name": "Womens"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "name": "S"
+    },
+    {
+      "id": 2,
+      "name": "M"
+    },
+    {
+      "id": 3,
+      "name": "L"
+    }
+  ],
+  "productSizes": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "size_id": 1,
+      "quantity": 23
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "size_id": 3,
+      "quantity": 28
+    },
+    {
+      "id": 3,
+      "product_id": 2,
+      "size_id": 2,
+      "quantity": 21
+    },
+    {
+      "id": 4,
+      "product_id": 2,
+      "size_id": 3,
+      "quantity": 25
+    },
+    {
+      "id": 5,
+      "product_id": 3,
+      "size_id": 1,
+      "quantity": 24
+    },
+    {
+      "id": 6,
+      "product_id": 3,
+      "size_id": 2,
+      "quantity": 22
+    },
+    {
+      "id": 7,
+      "product_id": 4,
+      "size_id": 1,
+      "quantity": 26
+    },
+    {
+      "id": 8,
+      "product_id": 4,
+      "size_id": 2,
+      "quantity": 20
+    },
+    {
+      "id": 9,
+      "product_id": 5,
+      "size_id": 1,
+      "quantity": 22
+    },
+    {
+      "id": 10,
+      "product_id": 5,
+      "size_id": 3,
+      "quantity": 27
+    },
+    {
+      "id": 11,
+      "product_id": 6,
+      "size_id": 2,
+      "quantity": 20
+    },
+    {
+      "id": 12,
+      "product_id": 6,
+      "size_id": 3,
+      "quantity": 30
+    },
+    {
+      "id": 13,
+      "product_id": 7,
+      "size_id": 1,
+      "quantity": 26
+    },
+    {
+      "id": 14,
+      "product_id": 7,
+      "size_id": 2,
+      "quantity": 24
+    },
+    {
+      "id": 15,
+      "product_id": 8,
+      "size_id": 1,
+      "quantity": 30
+    },
+    {
+      "id": 16,
+      "product_id": 8,
+      "size_id": 3,
+      "quantity": 20
+    },
+    {
+      "id": 17,
+      "product_id": 9,
+      "size_id": 2,
+      "quantity": 25
+    },
+    {
+      "id": 18,
+      "product_id": 9,
+      "size_id": 3,
+      "quantity": 21
+    },
+    {
+      "id": 19,
+      "product_id": 10,
+      "size_id": 1,
+      "quantity": 29
+    },
+    {
+      "id": 20,
+      "product_id": 10,
+      "size_id": 3,
+      "quantity": 23
+    },
+    {
+      "id": 21,
+      "product_id": 11,
+      "size_id": 1,
+      "quantity": 22
+    },
+    {
+      "id": 22,
+      "product_id": 11,
+      "size_id": 3,
+      "quantity": 27
+    },
+    {
+      "id": 23,
+      "product_id": 12,
+      "size_id": 1,
+      "quantity": 21
+    },
+    {
+      "id": 24,
+      "product_id": 12,
+      "size_id": 2,
+      "quantity": 25
+    },
+    {
+      "id": 25,
+      "product_id": 13,
+      "size_id": 2,
+      "quantity": 23
+    },
+    {
+      "id": 26,
+      "product_id": 13,
+      "size_id": 3,
+      "quantity": 29
+    },
+    {
+      "id": 27,
+      "product_id": 14,
+      "size_id": 1,
+      "quantity": 22
+    },
+    {
+      "id": 28,
+      "product_id": 14,
+      "size_id": 2,
+      "quantity": 28
+    },
+    {
+      "id": 29,
+      "product_id": 14,
+      "size_id": 3,
+      "quantity": 24
+    },
+    {
+      "id": 30,
+      "product_id": 15,
+      "size_id": 1,
+      "quantity": 26
+    },
+    {
+      "id": 31,
+      "product_id": 15,
+      "size_id": 3,
+      "quantity": 30
+    },
+    {
+      "id": 32,
+      "product_id": 16,
+      "size_id": 1,
+      "quantity": 22
+    },
+    {
+      "id": 33,
+      "product_id": 16,
+      "size_id": 2,
+      "quantity": 27
+    },
+    {
+      "id": 34,
+      "product_id": 17,
+      "size_id": 2,
+      "quantity": 25
+    },
+    {
+      "id": 35,
+      "product_id": 17,
+      "size_id": 3,
+      "quantity": 21
+    },
+    {
+      "id": 36,
+      "product_id": 18,
+      "size_id": 1,
+      "quantity": 28
+    },
+    {
+      "id": 37,
+      "product_id": 18,
+      "size_id": 2,
+      "quantity": 20
+    },
+    {
+      "id": 38,
+      "product_id": 19,
+      "size_id": 1,
+      "quantity": 23
+    },
+    {
+      "id": 39,
+      "product_id": 19,
+      "size_id": 2,
+      "quantity": 22
+    },
+    {
+      "id": 40,
+      "product_id": 19,
+      "size_id": 3,
+      "quantity": 26
+    },
+    {
+      "id": 41,
+      "product_id": 20,
+      "size_id": 1,
+      "quantity": 29
+    },
+    {
+      "id": 42,
+      "product_id": 20,
+      "size_id": 2,
+      "quantity": 24
+    },
+    {
+      "id": 43,
+      "product_id": 21,
+      "size_id": 2,
+      "quantity": 21
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "user_id": 1,
+      "rating": 4,
+      "review": "This is a great product!"
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "user_id": 1,
+      "rating": 3,
+      "review": "This product is okay."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "items": [],
+      "total_cost": 0
+    }
+  ]
+}
