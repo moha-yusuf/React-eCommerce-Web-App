@@ -1,0 +1,20 @@
+
+.pagination .page-link {
+  color: black;
+}
+
+.pagination .page-link:hover {
+  color: black;
+}
+
+.pagination .active button,
+.pagination button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.pagination .active button {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
